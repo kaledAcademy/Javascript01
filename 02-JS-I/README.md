@@ -2,6 +2,7 @@
   <img src='logokaleb.jpg' height='100px'>
 </div>
 
+
 # Lección 2: Introducción a Javascript
 
 En esta lección cubriremos:
@@ -14,6 +15,7 @@ En esta lección cubriremos:
 * Control de flujo y operadores de comparación
 * Introducción a Node y NPM
 
+<iframe src="https://player.vimeo.com/video/423852829" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Introducción a Javascript
 
@@ -321,27 +323,9 @@ _Node.js_ es un entorno de tiempo de ejecución desarrollado originalmente para 
 
 ## Abre la carpeta "homework" y completa la tarea descrita en el archivo README
 
-1. Para hacer la actividad debes estar sobre la carpeta 02-JS-II de esta manera
 
-```shell
-    c:\Javascript01\02-JS-I>
-```
+## Recursos adicionales
 
-2. desde alli correr el comando npm run test
-
-```shell
-    c:\Javascript01\02-JS-I> npm run test
-```
-
-3. deberia salirte un resultado asi :
-
-
-   ![alt text](image.png)
-
-entonces dedes ir a la carpeta homework y empezar a ahcer los ejercicios de acuerdo a las instrucciones:
-
-![alt text](image-1.png)
-
-
-Bendiciones, que el cielo les ayude!!...
-
+* [Codecademy: Learn Javascript](https://www.codecademy.com/learn/learn-javascript)
+* [Udacity: Intro to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)
+* [MDN: Official Javascript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
